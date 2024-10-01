@@ -23,3 +23,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+codice/dronefly/provadroni/.mvn/jvm.config
+codice/dronefly/provadroni/.mvn/maven.config
+codice/dronefly/provadroni/.settings/org.eclipse.core.resources.prefs
+codice/dronefly/provadroni/.settings/org.eclipse.jdt.core.prefs
+codice/dronefly/provadroni/.settings/org.eclipse.m2e.core.prefs
